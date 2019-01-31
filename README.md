@@ -71,4 +71,4 @@ if __name__=='__main__':
         time.sleep(1)#防止请求过快被网页检测出来，休眠1秒
 
 ```
- &ensp; 本文所有代码复制可以直接运行欧！
+ &ensp; 本文所有代码复制可以直接运行欧！我的博客：https://home.cnblogs.com/u/xubin97/ 更多内容~
